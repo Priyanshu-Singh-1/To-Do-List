@@ -20,6 +20,3 @@ Locate the directory to the todos-list and type the following code
 
 This projects runs on http://localhost:3001/
 
-# Live Project
-
-http://192.168.56.1:3001  
